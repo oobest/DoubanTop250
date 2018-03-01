@@ -53,7 +53,7 @@
             android:id="@+id/casts"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:minLines="2"
+            android:maxLines="2"
             android:ellipsize="end"/>
         <TextView
             android:id="@+id/genres"
