@@ -27,7 +27,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:2.2.2'
 
     implementation 'io.reactivex.rxjava2:rxjava:+'
-    compile 'io.reactivex.rxjava2:rxandroid:+'
+    implementation 'io.reactivex.rxjava2:rxandroid:+'
 
     implementation 'com.google.code.gson:gson:2.8.2'
     implementation 'com.squareup.okhttp3:okhttp:3.9.1'
